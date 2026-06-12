@@ -1,4 +1,3 @@
-# Sales-Revenue-Analysis-Dashboard
 # Sales & Revenue Analysis Dashboard 📊📈
 
 ## Project Overview
